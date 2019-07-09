@@ -1,0 +1,7 @@
+__pycache__/
+.DS_Store
+.vs_code
+
+digits/
+results/visualization/
+results/models/*_e*
